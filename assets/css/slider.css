@@ -1,0 +1,30 @@
+.btnSlider {
+    width: 20px;
+    height: 20px;
+    margin-bottom:7.1rem;
+    /* line-height: 72px; */
+ 
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #444;
+/*  
+    display: block;
+    position: relative;
+    display: inline-block; */
+    /* vertical-align: middle; */
+    position: relative;
+    z-index: 10;
+    color: #333;
+    margin-left: 1rem;
+  }
+  
+  .btnSlider:hover {
+    background:black;
+  }
+  
+
+  .sliderBtnContainer{
+      margin-left:35%;
+  }
+  
